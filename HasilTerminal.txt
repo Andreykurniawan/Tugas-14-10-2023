@@ -1,0 +1,12 @@
+Masukan total nilai tagihan: 275 
+Tagihannya 275.00, tipnya 41.25, dan total nilainya 316.25
+
+Masukan total nilai tagihan: 40
+Tagihannya 40.00, tipnya 8.00, dan total nilainya 48.00
+
+Masukan total nilai tagihan: 430
+Tagihannya 430.00, tipnya 86.00, dan total nilainya 516.00
+
+Catatan :
+Total tagihan dimasukan pada terminal
+Akan secara otomatis akan menghitung total nilainya sesuai dengan ketentuan
